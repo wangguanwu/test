@@ -6,4 +6,5 @@ Git has a mutable index called stage
 Git tracks change of file
 my stupid boss still prefers SVN
 creating a branch is quick and simple
+test merge no off
 
